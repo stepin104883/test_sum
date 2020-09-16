@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1597826209 source:c:\users\harsha\documents\codeblocks\test\src\sum.c
+
+1597832048 source:c:\users\harsha\documents\codeblocks\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sum.h"
+	"test_sum.h"
+
+1597826270 c:\users\harsha\documents\codeblocks\test\inc\sum.h
+
+1597831814 c:\users\harsha\documents\codeblocks\test\test\test_sum.h
+
+1597834736 source:c:\users\harsha\documents\codeblocks\test\test\test_sum.c
+	"unity.h"
+
+1596710268 c:\users\harsha\documents\codeblocks\test\unity\unity.h
+	"unity_internals.h"
+
+1596710268 c:\users\harsha\documents\codeblocks\test\unity\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1596710268 source:c:\users\harsha\documents\codeblocks\test\unity\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
