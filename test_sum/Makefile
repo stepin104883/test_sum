@@ -5,8 +5,8 @@ PROJECT_NAME = test_sum
 BUILD = build
 
 # All source code files
-SRC = project_main.c\
-src/calculator_operations.c\
+SRC = main.c\
+src/sums.c\
 
 # All test source files
 TEST_SRC = src/sum.c\
