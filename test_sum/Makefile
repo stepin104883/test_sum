@@ -6,7 +6,7 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-src/sums.c\
+src/sum.c\
 
 # All test source files
 #TEST_SRC = src/sum.c\
