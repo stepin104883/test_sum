@@ -10,7 +10,7 @@
 		printf("Sum = %d", my_sum);
 
 		/* Calling test main*/
-    	test_main();								/* Add function call */
+    	//test_main();								/* Add function call */
 
 		return 0;
 	}
