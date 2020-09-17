@@ -1,7 +1,7 @@
 	#include <stdio.h>
 	#include <stdlib.h>
 	#include "sum.h"					/* Add include file*/
-	#include "test_sum.h"				/* Add include file*/
+	//#include "test_sum.h"				/* Add include file*/
 	int main()
 	{
     	printf("Hello world!\n");
